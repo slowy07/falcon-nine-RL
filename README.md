@@ -1,7 +1,11 @@
 # falcon-nine-RL
 
+## thrust vectoring nozzle
+
+![configuration_rocket](.github/asset_image/configuration.jpg)
+
 | Output  | Plotting result | Command |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | ![landing_falcon](.github/asset_image/falcon_9_landing.gif)  | ![falcon_9_landing_result](.github/asset_image/falcon_9_landing_result.jpg) | Landing |
 
 
@@ -22,7 +26,7 @@ reward be assigned. the rest of the rules are the same as the hovering task
 
 
 | Hovering Output  | Plotting result | Command |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | ![hovering-output](.github/asset_image/falcon_9_hover.gif)  | ![falcon_9_landing_result](.github/asset_image/hovering_reward.jpg) | Hover |
 
 
